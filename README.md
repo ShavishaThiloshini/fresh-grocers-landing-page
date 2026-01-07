@@ -1,6 +1,6 @@
 # Fresh Grocers — Online Grocery Landing Page
 
-Live Demo: https://freshgrocers-landing.netlify.app  
+Live Demo: https://shavishathiloshini.github.io/fresh-grocers-landing-page  
 Source Code: https://github.com/ShavishaThiloshini/fresh-grocers-landing-page
 
 ---
